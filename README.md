@@ -4,6 +4,10 @@
 
 This notebook demonstrates a framework for parallel sampling from large amounts of data by leveraging spark.
 
+## Design ##
+
+![](design.png)
+
 ## Setup ##
 
 1.  Import the Notebook "ParallelSampling.ipynb" into Databricks
